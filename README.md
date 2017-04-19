@@ -23,6 +23,7 @@ You'll need __Python 3__ and the following packages:
 * __numpy__
 * __pandas__
 * __bokeh__
+* __requests__
 * __lxml__
 
 Brief installation advice for each platform is listed below.
